@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChrPetrifyVerticalTopDown
+  m_Shader: {fileID: -6465566751694194690, guid: 5058250149327b740bccaab858f6a604, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EffectBlendMap:
+        m_Texture: {fileID: 2800000, guid: 4aa3cc3261915f648b2b2d831f11123f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EffectMap:
+        m_Texture: {fileID: 2800000, guid: 4aa3cc3261915f648b2b2d831f11123f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EffectTexture:
+        m_Texture: {fileID: 2800000, guid: c4459d5cbdd2ab54097a9eaa680f351b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6cf54faba48b51c45af7d22ca798531f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PetrifyMap:
+        m_Texture: {fileID: 2800000, guid: 4aa3cc3261915f648b2b2d831f11123f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_B128B72B: 5
+    - _Alpha: 0
+    - _AlphaClipThreshold: 0
+    - _DissolveEdgeWidth: 0.025
+    - _DissolveNoiseScale: 100
+    - _DissolveValue: 0.52
+    - _EffectEdgeWidth: 0.05
+    - _EffectIsShiny: 0
+    - _EffectNoiseScale: 100
+    - _EffectScale: 2
+    - _EffectValue: 0
+    - _Emission: 0
+    - _Metallic: 0
+    - _Normal: 0
+    - _PetrifyEdgeWidth: 0.025
+    - _PetrifyInversed: 1
+    - _PetrifyScale: 3
+    - _PetrifyValue: 0
+    - _Smoothness: 0.2
+    - _VerticalIsInversed: 1
+    m_Colors:
+    - Vector2_B836BAE0: {r: -0.1, g: 0.9, b: 0, a: 0}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveColor: {r: 1.4980392, g: 0, b: 0.015686275, a: 1}
+    - _DissolveRemapValues: {r: -0.1, g: 2.1, b: 0, a: 0}
+    - _EffectBlendMapTiling: {r: 1, g: 1, b: 0, a: 0}
+    - _EffectColor: {r: 2.129639, g: 0.6998258, b: 0, a: 1}
+    - _EffectMapTiling: {r: 3, g: 3, b: 0, a: 0}
+    - _EffectRemap: {r: -0.3, g: 1.7, b: 0, a: 0}
+    - _EffectTiling: {r: 1, g: 58, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PetrifyEdgeColor: {r: 4.005235, g: 0, b: 0, a: 1}
+    - _PetrifyRemapValues: {r: -0.8, g: 1.1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &5562800134695264852
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5

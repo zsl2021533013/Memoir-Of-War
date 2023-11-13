@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66062e363b84a24948f209fd0b16b22, type: 3}
+  m_Name: WL1- 16
+  m_EditorClassIdentifier: 
+  type: 1
+  dialogueText: "\u4F46\u662F<color=#FFCC00>\u79C0\u5927\u4EBA</color>\u53C8\u7A81\u7136\u6D88\u5931\uFF0C\u4E0D\u4E45\u4FBF\u6709\u4F20\u8A00\u8BF4<color=#FFCC00>\u7D2B\u5DDD\u79C0\u5927\u4EBA</color>\u80CC\u53DB\u4E86\u7D2B\u5DDD\uFF0C\u5DF2\u6295\u9760\u9B54\u65CF\u3002\u79C0\u5B57\u8425\u7684\u5144\u5F1F\u4EEC\u90FD\u4E0D\u4FE1\uFF0C\u5E15\u4F0A\u57CE\u4E0B\uFF0C\u79C0\u5927\u4EBA\u51FA\u751F\u5165\u6B7B\uFF0C\u6240\u6709\u4EBA\u770B\u5728\u773C\u91CC\uFF01"
